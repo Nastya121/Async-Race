@@ -1,0 +1,69 @@
+.header{
+    display:flex;
+    margin-bottom: 30px;
+}
+.divInput{
+    display:flex; 
+    margin-bottom: 30px;  
+}
+.inputName,
+.inputColor{
+    margin-right: 20px;
+}
+.divButton{
+    display: flex;
+}
+.buttonslist{
+    margin-right: 30px;
+}
+.mainDiv1,
+.mainDiv2{
+    display: flex;
+}
+.carsButtons{
+    display: flex;
+}
+.carsRemove,
+.carsReset{
+    margin-right: 30px;
+}
+.carName{
+    display: inline;
+}
+.AB{
+    display:flex;
+}
+.BButton,
+.AButton{
+    margin-right: 10px;
+}
+
+.wTable{
+    border:2px solid;
+}
+.td{
+    border:2px solid;
+}
+.wrapper{
+    width: 100%;
+    position: relative;
+    height: 50px;
+}
+.car{
+    position: absolute;
+    height: 30px;
+    width: 40px;
+}
+.mark{
+    position: absolute;
+    right: 20px;
+    height:30px ;
+    width:30px ;
+}
+.line{
+    border:10px;
+}
+.qqq{
+    width: 100px;
+    height: 100px;
+}
